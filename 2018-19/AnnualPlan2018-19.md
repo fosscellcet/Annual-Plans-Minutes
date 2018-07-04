@@ -19,7 +19,7 @@ As per the first meeting of the cell , decision to make a website for fosscell w
 
 `August 2nd week` .
 
-Bootcamp should be able get freshers acquainted with git and linux.The success of this event determines the strength of our club.
+Bootcamp should be able to get freshers acquainted with git and linux.The success of this event determines the strength of our club.
 
   
 
