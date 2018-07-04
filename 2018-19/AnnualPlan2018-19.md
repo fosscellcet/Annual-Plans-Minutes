@@ -9,7 +9,7 @@
 ## 1.Foss cell Website
 
   
-As per the first meeting of the cell , decision to make a website for fosscell was made. So in accordance a static site needs to be launched by `june 2nd week.`Later on additional functionality can be added.
+As per the first meeting of the cell , decision to make a website for fosscell was made. So in accordance a static site needs to be launched by `july 2nd week.`Later on additional functionality can be added.
 
   
 
